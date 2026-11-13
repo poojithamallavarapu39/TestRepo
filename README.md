@@ -1,2 +1,2 @@
 # TestRepo
-Test Repository
+Updated project status for daily standup test
